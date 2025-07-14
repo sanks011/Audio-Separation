@@ -1,3 +1,5 @@
+![Visuals](https://raw.githubusercontent.com/sanks011/Audio-Separation/main/assets/audio-separation-architecture.png)
+
 # Real-time Parallel Audio Stream Separation (Browser)
 
 ## Problem Statement
