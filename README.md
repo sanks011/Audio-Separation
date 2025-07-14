@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/audio-separation-architecture.png" alt="System Architecture Diagram" style="max-width: 600px; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.15);">
+  <img src="images/Screenshot 2025-07-14 123239.png" alt="Project Visual: Parallel Audio Stream Separation Architecture" style="max-width: 600px; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.15);">
 </p>
 
 # Real-time Parallel Audio Stream Separation (Browser)
